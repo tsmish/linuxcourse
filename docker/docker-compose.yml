@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  chroot:
+    build:
+      context: .
+    restart: always
+    command: /usr/sbin/sshd -D
+    ports:
+      - 5001-5020:22
