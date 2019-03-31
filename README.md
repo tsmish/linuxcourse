@@ -1,5 +1,5 @@
 # Linux
-[Контест *Задания по Linux*](https://school9.perm.ru/gate/tester/?)
+[Контест: *Задания по Linux*](https://school9.perm.ru/gate/tester/?)
 ## О системе
 ---
 **Linux** - ядро ОС, разработка начата финским студентом Линусом Торвальдсом 
